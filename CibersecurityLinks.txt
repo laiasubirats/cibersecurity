@@ -7,3 +7,4 @@ https://web.gencat.cat/ca/seu-electronica/sobre-la-seu/proteccio-de-dades
 https://salutweb.gencat.cat/ca/el_departament/proteccio-de-dades/
 https://apdcat.gencat.cat/ca/documentacio/RGPD/altres_documents_dinteres/ 
 https://www.cloudflare.com/es-es/
+https://snyk.io/
