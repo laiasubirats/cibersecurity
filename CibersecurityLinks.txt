@@ -19,3 +19,4 @@ https://tryhackme.com/
 https://www.amazon.es/El-arte-invisibilidad-T%C3%ADtulos-Especiales/dp/8441540616
 https://storage.cdn.eurecat.org/CIDAI/WhitePapers/ACC_CIDAI_AICiberseguretat.pdf
 https://krebsonsecurity.com
+http://cybercat.eu/
