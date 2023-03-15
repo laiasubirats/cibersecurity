@@ -21,3 +21,4 @@ https://storage.cdn.eurecat.org/CIDAI/WhitePapers/ACC_CIDAI_AICiberseguretat.pdf
 https://krebsonsecurity.com
 http://cybercat.eu/
 https://www.cyberseek.org/
+https://ciberseguretat.gencat.cat/ca/Resums-mensuals-de-Tendencies-en-Ciberseguretat/index.html
