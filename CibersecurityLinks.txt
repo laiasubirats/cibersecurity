@@ -23,3 +23,14 @@ http://cybercat.eu/
 https://www.cyberseek.org/
 https://ciberseguretat.gencat.cat/ca/Resums-mensuals-de-Tendencies-en-Ciberseguretat/index.html
 https://www.futurepedia.io/
+
+Consultes de ciberseguretat a front-end:
+Angular --> cloudflare
+
+React: Nada de claves en el front. Para hacer pruebas en entornos de desarrollo, con claves de desarrollo, como mucho ponerlas en las variables de entorno https://dev.to/henriqueinonhe/frontend-environment-variables-what-why-and-how-1c1
+- Autenticación de doble factor en proyectos con datos sensibles, como telemedicina
+- Cuiadado con el localstorage, no guardar datos del usuario. Si se guarda el token, cada cierto tiempo tendrá que caducar. Lo caduca el back (el típico token que hace que entres directamente a la web, como en netflix)
+- Usar https. Personalmente tuve problemas en un proyecto con el contenido mixto: https://web.dev/i18n/es/fixing-mixed-content/ 
+- auditorías de sonarqube https://docs.sonarqube.org/latest/
+
+Vue: APIs
