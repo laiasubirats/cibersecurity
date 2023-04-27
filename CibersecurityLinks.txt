@@ -34,3 +34,5 @@ React: Nada de claves en el front. Para hacer pruebas en entornos de desarrollo,
 - auditorías de sonarqube https://docs.sonarqube.org/latest/
 
 Vue: APIs
+
+WiDS Barcelona 2023: https://www.youtube.com/watch?v=8i9lTEQSBQU
