@@ -35,4 +35,5 @@ React: Nada de claves en el front. Para hacer pruebas en entornos de desarrollo,
 
 Vue: APIs
 
+https://securityheaders.com/
 WiDS Barcelona 2023: https://www.youtube.com/watch?v=8i9lTEQSBQU
