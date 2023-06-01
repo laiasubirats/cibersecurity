@@ -37,3 +37,4 @@ Vue: APIs
 
 https://securityheaders.com/
 WiDS Barcelona 2023: https://www.youtube.com/watch?v=8i9lTEQSBQU
+https://theconversation.com/empresas-y-teletrabajadores-10-mandamientos-de-ciberseguridad-144760
